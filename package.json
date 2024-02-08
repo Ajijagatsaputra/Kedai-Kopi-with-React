@@ -1,0 +1,15 @@
+{
+  "name": "belajar-vite",
+  "version": "1.0.0",
+  "description": "Belajar Vite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aji Jagat Saputra",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "vite": "^5.1.0"
+  }
+}
